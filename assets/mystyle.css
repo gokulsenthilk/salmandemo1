@@ -1,0 +1,28 @@
+.pmclass{
+    padding:0;
+}
+.dm{
+    color:aqua;
+}
+hr.hrstyler {
+	border-top: 2px solid orange;
+	text-align: center;
+    margin-top:-5px;
+    width:20%;
+}
+h4.display-7{
+    color:black;
+    font-size: 25px;
+}
+p.display-7{
+    color:black;
+}
+.footer4 p{
+    color: white;
+}
+#footer7-d p{
+    color: white;
+}
+.collapse li.nav-item{
+    color:pink;
+}
